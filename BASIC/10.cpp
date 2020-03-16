@@ -20,4 +20,5 @@ int main()
         ans.pop();
     }
     cout << endl;
+    return 0;
 }
